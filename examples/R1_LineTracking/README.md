@@ -113,3 +113,7 @@ Xe dò line di chuyển và bám theo line nhờ việc sử dụng cảm biến
 
 - Nếu các phần cứng trong bài là hoàn toàn mới với các bạn, để có thể nắm được cách hệ thống vận hành, các bạn cần đọc và tìm hiểu về cách sử dụng của từng phần cứng tại trang Wiki của <a href="https://wiki.makerlab.vn/index.php/Main_Page">Makerlab</a>.
  
+ ## Hướng Dẫn:
+- Hướng dẫn lắp ráp  
+
+- Hướng dẫn lập trình  
